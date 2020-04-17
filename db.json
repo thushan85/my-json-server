@@ -5,7 +5,7 @@
         { "value": 3, "label": "Football" }
     ],
     
-     "sportsTypes": [
+     "sportTypes": [
         { "value": 1, "label": "Test" },
         { "value": 2, "label": "ODI" },
         { "value": 3, "label": "T20" }
