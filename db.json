@@ -4,11 +4,9 @@
         { "value": 2, "label": "Golf" },
         { "value": 3, "label": "Football" }
     ],
-    
      "sportTypes": [
         { "value": 1, "label": "Test" },
         { "value": 2, "label": "ODI" },
         { "value": 3, "label": "T20" }
     ]
-    
 }
