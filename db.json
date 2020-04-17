@@ -1,6 +1,6 @@
 {
     "sports": [
         {"id": "1", "name": "Cricket"},
-        {"id": "2", "name": "Golf"},
+        {"id": "2", "name": "Golf"}
     ]
 }
