@@ -1,6 +1,6 @@
 {
     "sports": [
-        { "value": 0, "label": "-" },
+        { "value": "", "label": "-" },
         { "value": 1, "label": "Cricket" },
         { "value": 2, "label": "Golf" },
         { "value": 3, "label": "Football" }
